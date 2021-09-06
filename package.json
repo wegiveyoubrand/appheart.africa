@@ -1,0 +1,36 @@
+{
+  "name": "appheart.africa",
+  "version": "1.1.0",
+  "description": "Discover Happiness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wegiveyoubrand/appheart.africa.git"
+  },
+  "keywords": [
+    "appheart",
+    "software",
+    "happiness",
+    "technology"
+  ],
+  "author": "APPHEART",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wegiveyoubrand/appheart.africa/issues"
+  },
+  "homepage": "https://github.com/wegiveyoubrand/appheart.africa#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2"
+  }
+}
